@@ -1,0 +1,118 @@
+body{
+    
+    text-align: center;
+}
+details{
+    border: 2px solid #000;
+    width:200px;
+    color: aqua;
+    text-shadow: -1px 1px 1px #000;
+    text-align: center;
+    background-color: darkslategrey;
+}
+p{
+    display: flex;
+    text-align: center;
+}
+.id-Box{
+    text-shadow: 2px 3px 4px #000;
+    text-align: center;
+    text-shadow: -1px 1px 1px #000;
+
+}
+.id-Box1 {
+    color: yellow;
+    border: 1px solid #000;
+    text-align: center;
+    text-shadow: -1px 1px 1px #000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration-color: brown;
+}
+h3{
+    color: blueviolet;
+    text-shadow: -1px 1px 1px #000;
+    text-wrap: balance;
+    text-indent: 10%;
+    font: 1em sans-serif;
+    
+}
+.id-01{
+    width: 200px;
+    color: rgb(255, 255, 255);
+    text-shadow: -1px 1px 1px #000000;
+    border: 2mm ridge #004080;
+    text-align: center;
+    background-color: cornflowerblue;
+    box-shadow: 10px 10px 10px #000;
+    margin: 10px;
+}
+.id-02{
+    width: 200px;
+    border: 2mm ridge #ff0000;background-color: yellow;
+    text-align: center;
+    text-shadow: -1px 1px 1px #000;
+    color: darkred;
+    margin: 15px;
+    box-shadow: 10px 10px 10px #000000;
+}
+.id-03{
+    width: 200px;
+    border: 2mm ridge #7bff00;background-color: rgb(255, 0, 0);
+    text-align: center;
+    text-shadow: -1px 1px 1px #000;
+    color: rgb(53, 0, 139);
+    margin: 15px;
+    box-shadow: 10px 10px 10px #000000;
+}
+main{
+    background-color: aquamarine;
+    width: 800px;
+    margin: 50px;
+    border: 3px solid;
+
+}
+p{
+    color: rgb(2, 24, 24);
+    text-shadow: -2px 3px 3px #000;
+    font-size: 20px;
+}
+table{
+width: 800px;
+text-align: center;
+box-shadow: 10px 10px 10px #000;
+}
+th{
+    width: 400px;
+    border: 2px solid #c0c0c0;
+    background-color: cadetblue;
+}
+td{
+    border: 1px solid #000;
+    background-color: darkgrey;
+    text-align: center;
+    font-size: 20px;
+}
+h1{
+    color: red;
+}
+h2{
+    color: blue;
+}
+b{
+    text-transform: lowercase;
+    text-shadow: -1px 1px 1px #000;
+    font-size: 25px;
+}
+h1{
+    text-shadow: -1px 1px 1px #7bff00, -1px 1px 1px #004080, -1px 1px 1px #000;
+
+
+}
+p{
+    line-height: 1.4em;
+}
+h1,h2{
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    word-spacing: 1em;
+}
